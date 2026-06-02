@@ -1,2 +1,2 @@
 # demorgons
-some practice programs
+Some fundamental practice problems
